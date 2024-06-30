@@ -1,1 +1,1 @@
-# stcok-dashboard
+# stock-dashboard
